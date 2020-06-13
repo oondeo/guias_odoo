@@ -104,4 +104,4 @@ Permitir chat para discusiones en tiempo real con los que siguen sus notas.
 
 Mostrar los usuarios conectados
 --------------------------------
-Ver quien está conectado ahora a sus notas
+Ver quien está conectado ahora a sus notas.
