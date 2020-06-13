@@ -8,5 +8,15 @@ Welcome to Guias YYK's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
    module_notes
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
