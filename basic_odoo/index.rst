@@ -1,6 +1,6 @@
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     basic_odoo/notes/module_notes.rst

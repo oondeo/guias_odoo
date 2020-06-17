@@ -10,8 +10,6 @@ Guías Odoo by YYK!
 .. toctree::
    :maxdepth: 3
    :numbered:
-   :caption: Caption title
-   :name: name title
 
    about.rst
    intro_odoo/introduction.rst
