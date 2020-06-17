@@ -20,7 +20,7 @@ Guías Odoo by YYK!
 Sobre nosotros
 ******************
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered:
 
    about.rst
