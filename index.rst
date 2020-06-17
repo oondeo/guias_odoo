@@ -6,15 +6,19 @@
 ******************
 Guías Odoo by YYK!
 ******************
+
 .. toctree::
    :maxdepth: 3
+   :numbered:
+   :caption: Caption title
+   :name: name title
+
    about.rst
    intro_odoo/introduction.rst
    config_odoo/index.rst
    basic_odoo/index.rst
    rrhh/index.rst
    accounting/index.rst
-
 
 
 Indices and tables
