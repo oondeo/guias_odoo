@@ -2,6 +2,8 @@
 ******************
 Odoo Básico
 ******************
+En desarrollo...
+
 .. toctree::
     :maxdepth: 2
     :numbered:
