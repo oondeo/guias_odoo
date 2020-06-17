@@ -1,5 +1,3 @@
-.. _accountingindex:
-
 .. index::
    single: OdooBasic
 
@@ -13,4 +11,4 @@ Módulos
 .. toctree::
    :maxdepth: 1
 
-notes/module_notes.rst
+    notes/module_notes.rst
