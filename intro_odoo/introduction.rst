@@ -11,6 +11,7 @@ En desarrollo...
 Mientras tanto puede obtener más información en
 
     https://www.odoo.com/es_ES/
+
     https://es.wikipedia.org/wiki/Odoo
 
 
