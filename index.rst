@@ -17,21 +17,6 @@ Guías Odoo by YYK!
    rrhh/index.rst
    accounting/index.rst
 
-******************
-Sobre nosotros
-******************
-.. toctree::
-   :maxdepth: 2
-   :numbered:
-
-   about.rst
 
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
