@@ -9,6 +9,5 @@ En desarrollo...
 Módulos
 --------
 .. toctree::
-   :maxdepth: 1
-
+   :maxdepth: 3
     notes/module_notes.rst
