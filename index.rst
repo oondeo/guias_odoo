@@ -3,14 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Guias Odoo by YYK!
-=====================================
-
+******************
+Guías Odoo by YYK!
+******************
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   module_notes
+   :maxdepth: 3
+   about.rst
+   intro_odoo/introduction.rst
+   config_odoo/index.rst
+   basic_odoo/index.rst
+   rrhh/index.rst
+   accounting/index.rst
 
 
 
