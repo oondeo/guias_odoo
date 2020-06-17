@@ -10,6 +10,7 @@ Guías Odoo by YYK!
    :maxdepth: 3
    :numbered:
 
+   about.rst
    intro_odoo/introduction.rst
    config_odoo/index.rst
    basic_odoo/index.rst
