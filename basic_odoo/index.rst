@@ -3,6 +3,6 @@ Odoo Básico
 ******************
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     basic_odoo/notes/module_notes.rst

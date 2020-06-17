@@ -8,19 +8,25 @@ Guías Odoo by YYK!
 ******************
 
 .. toctree::
-   :maxdepth: 1
-   :numbered:
-
-   about.rst
-
-.. toctree::
    :maxdepth: 3
    :numbered:
+
    intro_odoo/introduction.rst
    config_odoo/index.rst
    basic_odoo/index.rst
    rrhh/index.rst
    accounting/index.rst
+
+******************
+Sobre nosotros
+******************
+.. toctree::
+   :maxdepth: 1
+   :numbered:
+
+   about.rst
+
+
 
 
 Indices and tables
