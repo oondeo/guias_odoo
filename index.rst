@@ -6,7 +6,6 @@
 ******************
 Guías Odoo by YYK!
 ******************
-
 .. toctree::
    :maxdepth: 3
    :numbered:
