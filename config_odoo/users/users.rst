@@ -76,6 +76,7 @@ Desde el menú **Ajustes** puede invitar a tantos usuarios como usted necesite a
     Invitaciones a golpe de click.
 
 Desde Empleados
------------------
+---------------
 
 Ver en módulo **Empleados**.
+
