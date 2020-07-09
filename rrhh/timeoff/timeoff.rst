@@ -10,7 +10,7 @@ ausencia.
 Para ir al móludo ausencias haga click en el menú principal y haga click en **Ausencias**.
 
 
-.. figure:: /pics/00.png
+.. figure:: pics/00.png
     :align: center
 
     Pidiendo vacaciones
@@ -25,7 +25,7 @@ Para configurar los tipos de ausencias dentro de **Ausencias** vayamos a:
 
     **Configuración -> Tipos de ausencias.**
 
-.. figure:: /pics/01.png
+.. figure:: pics/01.png
     :align: center
 
     Por defecto Odoo ya incluye algunos tipos de ausencias
@@ -34,7 +34,7 @@ Una vez aquí podemos especificar los tipos de ausencias que los empleados puede
 solicitar, como pueden ser vacaciones, baja por enfermedad, compensación de horas
 extras, entre otras. Para crear un nuevo tipo de ausencia haga click en Crear.
 
-.. figure:: /pics/02.png
+.. figure:: pics/02.png
     :align: center
 
     Campos sombreados en azul son obligatorios, el nombre en este caso
@@ -57,17 +57,17 @@ Las cantidad de días por Ausencia disponible es facilmente configurable en Odoo
 
 Para la configuración de los tipos de ausencias en Odoo vayamos a **Configuración > Tipos de Ausencias**, abrimos el tipo de Ausencia que queramos configurar y click en dias asignados:
 
-.. figure:: /pics/03.png
+.. figure:: pics/03.png
     :align: center
 
 Click en **Crear**
 
-.. figure:: /pics/04.png
+.. figure:: pics/04.png
     :align: center
 
 Y a continuación en la siguiente pantalla podrá configurar los dias asignados para ese tipo de ausencia.
 
-.. figure:: /pics/05.png
+.. figure:: pics/05.png
     :align: center
 
 En **Modo**, podrá selecionar que empleados se verán afectados, podrá filtrar por departamento, empleado, empresa o etiqueta y departamento.
@@ -78,12 +78,12 @@ Solicitando Ausencias
 
 El empleado que quiera solicitar una ausencia via Odoo deberá ir **Mis Ausencias > Nueva solicitud > Crear**
 
-.. figure:: /pics/06.png
+.. figure:: pics/06.png
     :align: center
 
 En el siguiente menú podemos completar más detalles sobre la ausencia.
 
-.. figure:: /pics/07.png
+.. figure:: pics/07.png
     :align: center
 
 - Tipo de ausencia: podemos elegir el tipo de ausencia en el menú desplegable.
@@ -103,19 +103,19 @@ Aprobando Ausencias
 
 Una vez que el empleado ha creado la solicitud de ausencia el encargado de recursos humanos o manager recibirá una notificación en Odoo.
 
-.. figure:: /pics/08.png
+.. figure:: pics/08.png
     :align: center
 
 Existen dos formas para acceder a las solicitudes pendientes:
 - Haga click en la notificación
 - En el menú de Ausencias > Responsable > Ausencias
 
-.. figure:: /pics/09.png
+.. figure:: pics/09.png
     :align: center
 
 Aquí se mostrarán todas las Ausencias, y el responsable podrá Aprobar o Rechazar las peticiones.
 
-.. figure:: /pics/10.png
+.. figure:: pics/10.png
     :align: center
 
     Seis dias de baja por enfermedad
@@ -125,7 +125,7 @@ Informes de Ausencias
 
 El administrador puede crear un detallado y personalizado informe en su tablero o dashboard. Para ello vaya a **Informes > Analisis de Ausencias**.
 
-.. figure:: /pics/11.png
+.. figure:: pics/11.png
     :align: center
 
 
@@ -136,7 +136,7 @@ A diferencia de las ausencias, las **asignaciones** son la cantidad de días u h
 El empleado puede solicitar una asignación (generalmente en caso de largas ausencias).
 Para que el empleado pueda solicitar una asignación deberá ir a **Ausencias > Mis Ausencias > Solicitud de Asignaciones > Crear**
 
-.. figure:: /pics/12.png
+.. figure:: pics/12.png
     :align: center
 
 
