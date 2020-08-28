@@ -10,3 +10,4 @@ En desarrollo...
     :maxdepth: 2
 
     timeoff/timeoff.rst
+    contracts/contracts.rst

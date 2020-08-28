@@ -7,7 +7,7 @@ en la primera la *ausencia* es solicitada por el empleado,
 Odoo genera un informe detallado para que en la segunda etapa el mánager o la persona
 asignada analize el informe y pueda decidir si aprueba o rechaza la solicitud de
 ausencia.
-Para ir al móludo ausencias haga click en el menú principal y haga click en **Ausencias**.
+Para ir al módulo ausencias haga click en el menú principal y haga click en **Ausencias**.
 
 
 .. figure:: pics/00.png
@@ -148,4 +148,17 @@ Aquí el empleado deberá completar:
 
 Una vez que se hayan completado los datos y hecho click en **Guardar**, la solicitud será enviada al encargado para su aprobación.
 
+Permisos
+==========
+TODO
 
+FAQ - Preguntas Frecuentes
+============================
+
+¿Hay que excluir los fines de semanas al solicitar una ausencia?
+    No es necesario, Odoo tiene en cuenta la jornada laboral asignada a cada empleado para contabilizar los días.
+    Es decir, si la jornada laboral del empleado es de lunes a viernes, Odoo no contabilizará los sabados y domingos.
+
+¿Y los festivos?
+    Odoo también tiene en cuenta los días festivos a la hora de solicitar una ausencia o vacaciones.
+    **Ojo!!** El adminitrador deberá configurar los días festivos previamente en Odoo.
