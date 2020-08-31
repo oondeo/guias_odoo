@@ -2,6 +2,11 @@
 Contratos
 **********
 
+Este módulo nos permitirá al departamento de recursos humanos administrar los contratos de nuestros empleados.
+
+Acceso
+======
+
 Para ir acceder a los contratos vayamos al módulo Empleados y hagamos click en el menú **Contratos**.
 
 Desde el tablero podemos ver rápidamente los contratos existentes y su estado en las diferentes columnas: *Nuevo*, *En Proceso*, *Para renovar*, *Expirado*, *Cancelado*.
@@ -10,6 +15,14 @@ Desde el tablero podemos ver rápidamente los contratos existentes y su estado e
     :align: center
 
     Vista general
+
+También podemos acceder a los contratos de cualquier empleado desde su propia ficha de empleado, haciendo click en el
+botón **Contratos**, de esta forma veremos únicamente los contratos de dicho empleado:
+
+.. figure:: pics/00b.png
+    :align: center
+
+
 
 Creando un contrato
 ===================
@@ -77,3 +90,15 @@ Definición de los diferentes estados o columnas:
 - **Para Renovar**: El contrato esta activo y expira proximamente.
 - **Expirado**: La fecha de finalización del contrato es anterior a la fecha actual.
 - **Cancelado**: El contrato ha sido cancelado.
+
+
+FAQ - Preguntas Frecuentes
+============================
+
+¿Se pueden adjuntar archivos asociados a los contratos?
+    Por supuesto y de cualquier tipo, para ello simplemente presionamos el botón ¨clip¨ (abajo a la derecha) dentro del contrato y a
+    continuación aparecerá se botón *Agregar archivos adjuntos* y los archivos adjuntos si los hubiera.
+
+.. figure:: pics/07.png
+    :align: center
+
