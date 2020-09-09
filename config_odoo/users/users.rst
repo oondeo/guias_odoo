@@ -6,7 +6,7 @@ En Odoo se define un **Usuario** como alguien que tiene acceso a la base de dato
 
 Se pueden añadir tantos usuarios como el administrador desee, de igual manera el administrador podrá administrar los permisos de acceso a las diferentes aplicaciones dentro de Odoo para cada usuario individualmente.
 
-.. figure:: /users/pics/00.png
+.. figure:: users/pics/00.png
 
     ¿Cúantos usuarios necesitamos?
 
@@ -20,20 +20,20 @@ Esta forma de añadir un nuevo usuario es recomendada si el usuario no está añ
 
 Para empezar vayamos a **Ajustes** desde el menú principal.
 
-.. figure:: /pics/01.png
+.. figure:: pics/01.png
 
     **Settings** si tenemos nuestro Odoo en inglés
 
 Y a continuación al menú **Administrar permisos de acceso**
 
-.. figure:: /pics/02.png
+.. figure:: pics/02.png
 
 
 Hacemos click en **Crear** y ingresamos los datos, permisos y preferencias del usuario.
 Tanto los permisos como las preferencias se podrán modificar en el futuro.
 
 
-.. figure:: /pics/03.png
+.. figure:: pics/03.png
 
     Los campos sombreados en azul son obligatorios
 
@@ -52,14 +52,14 @@ En el menú principal, seleccione **Contactos**. Si el Contacto no está creado 
 
 Si por el contrario el **Contacto** ya existe en el sistema o ya lo acaba de crear, seleccione el contacto deseado y haga click en el menú **Acción** en el centro superior del interfaz y seleccione **Otorgar Acesso al Portal** en el menú emergente.
 
-.. figure:: /pics/04.png
+.. figure:: pics/04.png
 
     Todos sus datos son ficticios.
 
 Una nueva ventana aparecerá, el **correo electrónico** será el login del usuario, aparecerá por defecto si el contacto ya lo tenía añadido,
 seleccione la casilla **En el Portal** y además podemos agregar un texto para ser incluido en el correo electrónico de invitación.
 
-.. figure:: /pics/05.png
+.. figure:: pics/05.png
 
     Importante seleccionar la casilla **En el Portal**.
 
@@ -71,7 +71,7 @@ Vía invitación
 
 Desde el menú **Ajustes** puede invitar a tantos usuarios como usted necesite añadiendo únicamente su dirección de correo electrónico y haciendo click en **Invitar**.
 
-.. figure:: /pics/07.png
+.. figure:: pics/07.png
 
     Invitaciones a golpe de click.
 
